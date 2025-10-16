@@ -17,7 +17,7 @@ The interactive dashboard provides a comprehensive view of car sales performance
 - **Company-wise Trend Sales:** Shows detailed performance by car company, including total sales and units sold.  
 
 📸 *Dashboard Preview:*  
-![Car Sales Dashboard](c2489c67-ff46-4a9a-be4a-633fe34619a7.png)
+![Car Sales Dashboard](dashboard 4.png)
 
 ---
 
@@ -50,4 +50,5 @@ You can view the interactive dashboard on **[Tableau Public](#)**
 ## 👩‍💻 Author
 **Hana Wael**  
 Data Analyst | Tableau • Excel • SQL • Python
+
 
